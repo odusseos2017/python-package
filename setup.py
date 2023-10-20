@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup_args = dict(
     name='very_fantastic_ascii',
-    version='1.0.0',
+    version='1.0.2',
     description='Very Fantastic ASCII',
     license='MIT',
     packages=find_packages(),
